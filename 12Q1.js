@@ -3,7 +3,7 @@
 // let num = Number(prompt("Enter Number : ")); 
  
 // let r = a(num); 
-// console.log("Currect Number : ",num);    
+// console.log("Currect Number : ",num);      
 // console.log("The Reverse Number is : ",r); 
  
 //  function a(n) { 
